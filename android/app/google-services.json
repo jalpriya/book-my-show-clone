@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556067285033",
+    "project_id": "book-my-show-login",
+    "storage_bucket": "book-my-show-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556067285033:android:e54c4d00ab342c14881438",
+        "android_client_info": {
+          "package_name": "com.example.bookmyshow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556067285033-j9nlo41h62d85nbcoo5ilbf03cbmo7dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhkcTv1hTjA_RzPymZ1T5b-jlOXYHt3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556067285033-il6j17dhrhj1kho893subm1oqk05a5sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
